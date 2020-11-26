@@ -1,5 +1,3 @@
-# **Recruti -- Ultiamte Goal --**
-
 Utilitare:
     -android studio
     -java (minim 8)
