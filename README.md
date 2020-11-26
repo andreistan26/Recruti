@@ -26,4 +26,3 @@ Resurse FTC:
     -Foarte important - https://gm0.org/en/stable/docs/software/using-the-sdk.html
                       - https://gm0.org/en/stable/docs/software/mecanum-drive.html
                       - In SDK->RobotController->java->...->external.samples
-
