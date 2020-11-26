@@ -2,9 +2,10 @@
 
 Utilitare:
     -android studio
-    -java (minim 8) - Windows: https://www.youtube.com/watch?v=ClcHrcNXP9g
-                    - Linux: https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkDeb.html
-                    - OSX: https://stackoverflow.com/questions/24342886/how-to-install-java-8-on-mac (aveti nevoie de homebrew)
+    -java (minim 8)
+    - Windows: https://www.youtube.com/watch?v=ClcHrcNXP9
+    - Linux: https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkDeb.html
+    - OSX: https://stackoverflow.com/questions/24342886/how-to-install-java-8-on-mac (aveti nevoie de homebrew)
 
 Mod Utilizare Android Studio:
     -descarcati si instalati Android Studio - https://developer.android.com/studio/install
@@ -23,6 +24,7 @@ Invata Java-basic:
     -Video tutorial Java: https://www.youtube.com/watch?v=n-xAqcBCws4&t=9s
 
 Resurse FTC:
-    -Foarte important - https://gm0.org/en/stable/docs/software/using-the-sdk.html
-                      - https://gm0.org/en/stable/docs/software/mecanum-drive.html
-                      - In SDK->RobotController->java->...->external.samples
+    -Foarte important:
+        - https://gm0.org/en/stable/docs/software/using-the-sdk.html 
+        - https://gm0.org/en/stable/docs/software/mecanum-drive.html
+        - In SDK->RobotController->java->...->external.samples
