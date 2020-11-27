@@ -1,7 +1,7 @@
 Utilitare:
     -android studio
     -java (minim 8)
-    - Windows: https://www.youtube.com/watch?v=ClcHrcNXP9
+    - Windows: https://www.youtube.com/watch?v=ClcHrcNXP9g
     - Linux: https://docs.datastax.com/en/jdk-install/doc/jdk-install/installOpenJdkDeb.html
     - OSX: https://stackoverflow.com/questions/24342886/how-to-install-java-8-on-mac (aveti nevoie de homebrew)
 
